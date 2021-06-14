@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Engine Classifier</string>
+    <string name="ipv4Address">192.168.43.144</string>>
+    <string name="portNumber">5000</string>>
+    <string name="engineBlockLink">https://en.wikipedia.org/wiki/Engine_block</string>>
+    <string name="cylinderHeadLink">https://en.wikipedia.org/wiki/Cylinder_head</string>>
+    <string name="timingBeltLink">https://en.wikipedia.org/wiki/Timing_belt</string>>
+    <string name="crankShaftLink">https://en.wikipedia.org/wiki/Crankshaft</string>>
+    <string name="pistonLink">https://en.wikipedia.org/wiki/Piston</string>>
+</resources>
